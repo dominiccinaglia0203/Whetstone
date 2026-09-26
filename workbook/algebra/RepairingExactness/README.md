@@ -5,4 +5,6 @@ in DefiningDerivedFunctors.
 Key Results Proven: 
 1. Horseshoe Lemma
 2. Snake Lemma
-3. Long Exact Sequence of Homology
+3. Long Exact Sequence of Homology Groups
+4. Long Exact Sequence of Derived Groups
+Bonus: δ Functor Universality of Derived Functors
