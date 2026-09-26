@@ -6,5 +6,5 @@ Key Results Proven:
 2. Three Equivalent Characterizations of Split-Exactness
 3. Four Equivalent Characterizations of Pure-Exactness
 4. Exemplifying the Hierarchy Split=>Pure=>Exact
-5. Measuring Failure of Splitness/Purity
+Bonus: Obstruction Theory to Pure/Split Exactness
 
