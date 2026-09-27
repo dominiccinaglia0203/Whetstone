@@ -7,4 +7,5 @@ Key Results Proven:
 2. Projective Varieties and Proj
 3. Quasi-Projective Varieties
 4. Morphisms and Gluing
+
 Bonus: Separatedness and Categorical Properties 
