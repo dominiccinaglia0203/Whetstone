@@ -7,8 +7,10 @@ Key Results Proven:
 
 1. Comparison Theorem - 
 
-2. Homotopy Invariance of Additive Functors
+2. Induced Ladder from an Additive Functor
 
-3. Functoriality of Derivation
+3. Definition of Derived Functors
 
-4. Additivity of Derived Functors
+4. Acyclic Objects
+   
+Bonus: Acyclic Resolutions
