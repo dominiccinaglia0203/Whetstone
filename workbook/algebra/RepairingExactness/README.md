@@ -3,7 +3,7 @@ an additive functor. This leverages the construction of derived functors discuss
 in DefiningDerivedFunctors.
 
 Key Results Proven: 
-1. Horseshoe Lemma
+1. Horseshoe Lemma (Projective and Injective)
 2. Snake Lemma
 3. Long Exact Sequence of Homology Groups
 4. Long Exact Sequence of Derived Groups
