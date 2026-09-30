@@ -2,4 +2,26 @@
 Documenting mathematical progress post-undergrad
 
 
-In Progress: Injective Horseshoe Lemma, Category of Affine Varieties, PhysicistsIntroductionToVariationalCalculus
+In Progress
+———————————
+
+algebra: 
+
+Injective Horseshoe Lemma,
+
+Injective Comparison Theorem,
+
+Defining Derived Functors,
+
+Acyclic Objects, 
+
+Acyclic Resolution Theorem, 
+
+Category of Affine Varieties,
+
+
+analysis: 
+
+PhysicistsIntroductionToVariationalCalculus,
+
+
