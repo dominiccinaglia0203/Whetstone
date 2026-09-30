@@ -5,7 +5,7 @@ Motivation:
 
 Key Results Proven:
 
-1. Comparison Theorem - 
+1. Comparison Theorem (Injective and Projective)
 
 2. Induced Ladder from an Additive Functor
 
