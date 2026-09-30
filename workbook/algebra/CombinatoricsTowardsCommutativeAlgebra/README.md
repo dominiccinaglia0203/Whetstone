@@ -4,7 +4,11 @@ these invariants algebraically later.
 
 Key Results Proven:
 1. Graphs
+   
 2. Simplicial Complexes
+   
 3. Matroids
+   
 4. Dictionary
+   
 Bonus: Tutte Polynomial
