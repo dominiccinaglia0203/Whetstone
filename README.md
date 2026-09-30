@@ -3,9 +3,12 @@ Documenting mathematical progress post-undergrad
 
 
 In Progress
+
 ———————————
 
 algebra: 
+
+Graphs and Their Invariants,
 
 Injective Horseshoe Lemma,
 
