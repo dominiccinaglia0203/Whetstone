@@ -14,6 +14,8 @@ Injective Horseshoe Lemma,
 
 Injective Comparison Theorem,
 
+Induced Ladder for Additive Functors,
+
 Defining Derived Functors,
 
 Acyclic Objects, 
@@ -21,6 +23,10 @@ Acyclic Objects,
 Acyclic Resolution Theorem, 
 
 Category of Affine Varieties,
+
+
+topology:
+
 
 
 analysis: 
