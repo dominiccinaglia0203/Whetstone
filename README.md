@@ -27,6 +27,7 @@ Category of Affine Varieties,
 
 topology:
 
+Linearization in Euclidean Spaces,
 
 
 analysis: 
