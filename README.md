@@ -1,6 +1,33 @@
 # Whetstone
 Documenting mathematical progress post-undergrad
 
+Completed
+
+———————————
+
+algebra:
+
+
+Comparison Theorem,
+
+Induced Ladder of Additive Functors,
+
+Projective Horseshoe Lemma,
+
+Injective Horseshoe Lemma,
+
+
+topology:
+
+
+
+analysis: 
+
+
+First Variation and Euler Lagrange Equation,
+
+
+———————————
 
 In Progress
 
