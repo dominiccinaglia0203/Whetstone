@@ -8,13 +8,13 @@ Completed
 algebra:
 
 
-Comparison Theorem,
+-Comparison Theorem,
 
-Induced Ladder of Additive Functors,
+-Induced Ladder of Additive Functors,
 
-Projective Horseshoe Lemma,
+-Projective Horseshoe Lemma,
 
-Injective Horseshoe Lemma,
+-Injective Horseshoe Lemma,
 
 
 topology:
@@ -24,7 +24,7 @@ topology:
 analysis: 
 
 
-First Variation and Euler Lagrange Equation,
+-First Variation and Euler Lagrange Equation,
 
 
 ———————————
@@ -35,30 +35,30 @@ In Progress
 
 algebra: 
 
-Graphs and Their Invariants,
+-Graphs and Their Invariants,
 
-Injective Horseshoe Lemma,
+-Injective Horseshoe Lemma,
 
-Injective Comparison Theorem,
+-Injective Comparison Theorem,
 
-Induced Ladder for Additive Functors,
+-Induced Ladder for Additive Functors,
 
-Defining Derived Functors,
+-Defining Derived Functors,
 
-Acyclic Objects, 
+-Acyclic Objects, 
 
-Acyclic Resolution Theorem, 
+-Acyclic Resolution Theorem, 
 
-Category of Affine Varieties,
+-Category of Affine Varieties,
 
 
 topology:
 
-Linearization in Euclidean Spaces,
+-Linearization in Euclidean Spaces,
 
 
 analysis: 
 
-PhysicistsIntroductionToVariationalCalculus,
+
 
 
