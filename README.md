@@ -35,6 +35,8 @@ In Progress
 
 algebra: 
 
+-Stanley-Reisner Theory
+
 -Graphs and Their Invariants,
 
 -Injective Horseshoe Lemma,
