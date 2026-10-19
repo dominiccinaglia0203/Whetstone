@@ -6,7 +6,7 @@ Key Results Proven:
 
 1. Linearization in Euclidean Space
 
-2. Global Linear Obstructions
+2. Global Failure of Linearization
 
 3. Defining Manifolds and Maximal Atlases
 
